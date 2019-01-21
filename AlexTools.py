@@ -1,8 +1,3 @@
-# To import this toolset copy paste the following (uncommented) 3 lines- path might need to be edited or omitted if in same folder:
-# import sys
-# sys.path.append(r"C:\Users\Sulley\Dropbox\Macros\Python")
-# import AlexTools as ac
-
 
 def PDFtoJPG(PDFpath, saveAs="[inputfilename].jpg"):
     # Saves a JPG file from a specified PDF. Saves JPG at specified location and returns path of jpg file as String.
